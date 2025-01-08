@@ -1,2 +1,2 @@
-print('new world')
-#ニューワールドと出力
+import 
+
