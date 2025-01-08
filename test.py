@@ -1,1 +1,2 @@
-print('hello world')
+print('new world')
+#ニューワールドと出力
