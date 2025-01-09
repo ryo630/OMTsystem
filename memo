@@ -1,1 +1,0 @@
-self.master.geometry(str(width)+"x"+str(height)+"+"+str(x)+"+0")
